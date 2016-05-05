@@ -1,0 +1,7 @@
+Brad Sherman
+Fundamentals of Computing 2
+Lab 1 Report (pi.cpp)
+
+The user uses this program by starting it, and then he/she is prompted to enter the number of terms they want to use to estimate pi. If they enter a number below 2 (including negatives), they will be asked to enter a new number. Otherwise, they will see the estimation for pi by the summation for each term 1-whatever number they entered.
+
+Internally, this program first prompts the user, then it takes their input as the number of terms to use in the series. It then enters a while loop that will only exit once terms is greater than 2. Then it creates pi and calculates and displays it in the calculatePi function. In that function it enters a for loop that runs for the number of the terms the user entered. I deduced the formula from the series given on the handout. I verified this output by checking it against the example output on the handout and by entering a very large number and making sure it was pretty close to pi.

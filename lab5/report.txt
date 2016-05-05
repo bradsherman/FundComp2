@@ -1,0 +1,46 @@
+Brad Sherman
+Fundamentals of Computing 2
+Lab 5 report
+
+The user uses this program by first entering the names of the text files containing their
+Wordoku and Sudoku puzzle boards. Then their Wordoku board is displayed and the Sudoku 
+board after. Then, they are prompted to play Sudoku. They are asked what number they want
+to input, and the row and column at which they wish to place it. If it is a valid choice,
+their entry will be added, but if not the program will tell them that it is an invalid
+choice, and they will be prompted again. Once they have solved the puzzle the program will
+congratulate them and terminate.
+
+Internally, this program starts by declaring a SudokuBoard and WordokuBoard. In the Puzzle
+class constructor, the user is prompted to enter their text files that contain their 
+puzzle boards. Then the boards are read in using ifstream. Then the boards are printed
+with labels on the rows and columns and separators inbetween every three lines So it is 
+easier to read. Then a while loop is entered that runs until solved = 0. The user is asked
+for an input, row, and column and the program checks to see if they are valid. If they are,
+the program will add the entry to the board. This continues until the board is solved, at
+which time solved is set to 0 and a congratulatory message is displayed after the while 
+loop. 
+
+In order to see if an entry is valid a number of things are checked. First, the program
+checks to see if the user's row and column choice is on the board. Then, it checks to 
+see if the position has already been played i.e. if it is not equal to 0. Then it checks
+the row and column to see if a matching number already exists in the chosen row/column.
+Then another function is called to check each "box" on the grid to see if a matching 
+number already exists in the box that contains the user's chosen postion. It does this
+by first figuring out if the row is between 0-2, 3-5, or 6-8 which is done by an if 
+statement. Then there is another if statement in each branch of the previous one to see
+where the column belongs to. Once the "box" has been pinpointed, a double for loop checks
+it to see if the user's entry already exists. Throughout all of these checks, a valid 
+variable which is set to 1 by default, is set to 0 if any of these checks fail. At the 
+end of the addEntry function the value is added or an error is displayed depedning on the 
+value of the valid variable.
+
+I checked this program by playing it myself and solving the puzzle. I made sure to take 
+care of edge cases and invalid user input. Besides that, I just tried entering values
+that would be invalid for each of the reasons that block an entry from being added to make
+sure that my input was not added.
+
+I think the reading in of the files and setting up the board worked well. I also think
+the way I check for a valid entry works well, but it has a flaw. If the user inputs a
+valid option that is not actually the correct value for that cell, they will have to start
+over completely. This is because I only check to see if a value is not 0 when they try to 
+enter a number. 

@@ -1,0 +1,38 @@
+Brad Sherman
+Fundamentals of Computing 2
+Lab 3 Report
+
+The user uses this program simply by running it, I have picked six names and I give all
+the packages random weights so that each package costs a different amount of money.
+
+Internally, this program works by first setting a random seed, and then it declares
+6 Package base class pointers. Then it instantiates three TwoDayPackages and three
+Overnight Packages, and assigns the pointers to the addresses of these objects. Then
+I gave all the owners of the packages different names and made an array of the pacakges.
+Then I loop through the packages, give them a random weight between 1 and 20, and then
+calculate the cost to ship them based on their weight and whether they are a two day
+package or an overnight package. The output is displayed to the user.
+
+I verified this program by running it multiple times and calcuating the cost for each
+type of package to make sure that it was the right cost. There is no user input as of 
+I also knew that I should check to make sure that if a user enters a negative number
+it wouldn't mess up the program so I used abs() to make sure the values are always
+positive.
+
+In order to make a base class abstract (unable to be instantiated), it must have one
+or more pure virtual functions. This is done by putting "= 0" at the end of a virtual
+functions declaration. In order to make a derived class concrete there must be defined
+a matching member function for each abstract member function from the base class.
+
+I think inheritance is more natural because C++ is more suited to use inheritance and
+it is much easier to deal with private variables that it is with composition. I had a 
+harder time dealing with gaining access to base class variables using composition than
+I did with inheritance. I also think it is more natural because there are more cases
+where something "is" rather than something "has".
+
+A virtual function is a function that can be overwritten by an inherited class with the
+same function name. A pure virtual function is required to be in a derived class that
+is not abstract. A pure virtual function is implemented by adding an "=0" to the end of
+the function declaration as I described above. If a function has a pure virtual function
+then it cannot be instantiated, and there must be an inherited class that contains a 
+virtual function with the same name.

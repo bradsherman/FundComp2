@@ -1,0 +1,44 @@
+Brad Sherman
+Fundamentals of Computing 2
+Lab 10 Report
+
+From the user's perspective, this program starts by asking it for a file name, and then it displays
+how many unique words there are in it. Then they are asked for a second file, and all the unique words
+are displayed with the amount of times they show up in the document. Then the user is asked for a text
+file, and two different language dictionary files. Then they are told which language the document is 
+in. Then they are asked for two more files and the jaccard similarity of the files is computed. For 
+sudoku the user is simply asked for a board file and it is solved using a set.
+
+Internally, docprocesses is very similar throughout each of the separate processes. First, each word
+in the file is read in and stripped of non letters and punctuation, and added to a vector. Then the
+vector is sorted, and the unique function is used and then the size of the vector is the number of
+unique words. To see how many of each unique word there are, the same thing happens except the words
+are read in to a map, with each successive addition of the word incrementing the value to that key.
+then the map is displayed by printing each key (word) and value (number of apperances) pair. For the
+first post-lab assignment, each file is read in, opened, and the words are put in to a vector. The
+text file is stripped of nonletters and punctuation, but the dictionaries are not. Then, while the 
+text file still has words, the program does a binary search on each dictionary vector to see if there
+is a matching word with the word currently being analyzed from the text file. If there is, the count
+for that language is incremented. Once this is done, whichever language has the higher count is the 
+language that the document is in. Note, in small files this is unreliable because there is such a 
+small sample size. Next, the Jaccard similarity is computed. Each file is read in, stripped, and put
+into a vector. Each word in each file is also put into a set called un, which is the union, because 
+any duplicates will not be added, as per the properties of a set, so it will contain all the unique
+words from both files. Then, each word in the first file is compared with every word in the second
+file vector, and if a match is found, that word is added to the set called intersection. Lastly,
+the size of intersection is divided by the size of un and that is displayed to the user. For sudoku,
+everything is the same except for the Possibilities is a 2D vector of sets instead of vectors now. 
+
+5a. I think ideally that the dictionaries should have as many words as possible. Since there are similar
+words in certain languages, if a short file is used and there are words that a dictionary doesn't 
+have it could give the wrong answer. I used the provided dictionary.txt file, but I know there is a 
+standard file in /usr/share/dict/words or /usr/dict/words that is a list of dictionary words. I then
+used google translate to get a dictionary for a different language. 
+5b. I think the possibilities vector is less natural than the set. The set has different useful
+functions from the vector like count which make things easy. It also has the faster lookup time which
+is an added benefit.
+
+I checked this program for correctness by comparing my counts for the given test files with classmates
+and their counts. For sudoku, I just checked to make sure that it worked on the easy puzzle by looking
+at the final printout and making sure every value was placed correctly.
+

@@ -1,0 +1,44 @@
+Brad Sherman
+Fundamentals of Computing 2
+Lab 6 Report
+
+From the user's perspective, this program starts by asking them to enter
+the text file containing their sudoku puzzle. Then, all that happens is 
+that they see the solved puzzle printed on their screen when the solver 
+is done.
+
+Internally, the program starts by instantiating a Puzzle object with 
+ints. This prompts the user to enter the text file containing their
+Sudoku puzzle. Then, the print function is called which shows the user
+their puzzle in a nice format. Then, the solve function is called. This
+starts by iterating through every cell in the puzzle and checking the 
+row, column, and mini-grid for numbers that are already placed. If there
+is a cell that only has one valid option, that number is placed, and the
+process starts over. If there are no such cells, the singleton method 
+is called. This method iterates over every cell, and checks to see if 
+there are cells in which a possibility only appears once. It uses a 
+Possibilities vector for both of these methods. It is a 3D vector that 
+contains a 1 or a 0 for each value 1-9 for every coordinate on the grid.
+For example, in the first method, if for a given coordinate, only one 
+number had a 1 in the 3D vector, the program will place it. For the 
+singleton method, it checks the rows, columns, and mini-grids for cells
+that have the only instance of a number with a 1 in it's 3D vector, and
+then places it there since it's the only spot it can be placed. Once the 
+puzzle is solved, it displays the solved puzzle to the user.
+
+This program was verified by using the sample puzzles. I tried thinking
+of errors ahead of time that would screw things up, like making sure the
+0 index of arrays does not mess up the numbering scheme of 1-9 for 
+sudoku. 
+
+Unfortunately, I could not get the singleton method to work. I left the 
+code that I had for it in my program. I'm not sure what was going wrong 
+with it, and any feedback is appreciated.
+
+I thought the singleton method was the hardest part of this lab. I know
+how the algortihm works, but I could not get it to solve the puzzle. The 
+way I tried to implement the two algorithms is just run the singleton 
+after the first method, and by doing that it should solve most puzzles.
+One note, is that because the singleton method does not work, it screws
+up the previous algorithm for the easy puzzle. If you comment out what I 
+have labeled as singleton, it will work on the easy puzzles. 

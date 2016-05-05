@@ -1,0 +1,781 @@
+to Parte 1, de Johann Wolfgang von Goethe
+# 32 en nuestra serie de Goethe
+
+Ver también Etexts los números 2229 y 2230 para las ediciones de este texto electrónico
+en alemán.
+
+Las leyes de copyright están cambiando en todo el mundo, asegúrese de comprobar
+las leyes de copyright de su país antes de la publicación de estos archivos !!
+
+Por favor, eche un vistazo a la información importante en esta cabecera.
+Le animamos a mantener este archivo en su propio disco, manteniendo una
+ruta electrónica abierta para los próximos lectores. No quite esto.
+
+* Tiene que ser legalmente el primero que se ve cuando se abre el libro. *
+De hecho, nuestros asesores legales dijeron que ni siquiera podemos cambiar los márgenes.
+
+** Bienvenido al mundo de libre Plain Vanilla textos electrónicos **
+
+** Etexts legible para los seres humanos y por los ordenadores, desde 1971 **
+
+* Estos Etexts Preparado por cientos de voluntarios y donaciones *
+
+Información sobre cómo contactar Proyecto Gutenberg llegar Etexts, y
+más información se incluye a continuación. Necesitamos sus donaciones.
+
+
+Título: Parte 1 Faust
+
+Autor: Johann Wolfgang von Goethe
+
+Fecha de salida: enero de 2002 [Etext # 3023]
+[Fecha última actualización: May 9, 2004]
+
+Edición: 10
+
+Idioma: Inglés
+
+
+El Proyecto Gutenberg Etext Faust Parte 1 de Johann Wolfgang von Goethe
+****** Este archivo debe ser nombrado faust10.txt o faust10.zip ******
+
+EDICIONES corregidas de nuestros etexts obtener un nuevo número, faust11.txt
+Versiones basadas en fuentes independientes obtienen nueva carta, faust10a.txt
+
+
+Preparado por David Reed haradda@aol.com o davidr@inconnect.com
+
+Proyecto Gutenberg Etexts normalmente se crean a partir de múltiples ediciones,
+todos los cuales están en el dominio público en los Estados Unidos, a menos que una
+Se incluye aviso de copyright. Por lo tanto, generalmente no mantienen ningún
+de estos libros en el cumplimiento de cualquier edición de papel en particular.
+
+
+Ahora estamos tratando de liberar a todos nuestros libros con un mes de antelación
+de la fecha de lanzamiento oficial, dejando tiempo para una mejor edición.
+
+Tenga en cuenta: ni esta lista ni su contenido son finales hasta
+la medianoche del último día del mes, de tal anuncio.
+La fecha de lanzamiento oficial de toda Proyecto Gutenberg está en Etexts
+Medianoche, hora central, del último día del mes indicado. UN
+versión preliminar puede a menudo ser publicado para la sugerencia, comentario
+y editado en español por aquellos que lo deseen. Para asegurarse de que tiene una
+hasta la fecha primera edición [xxxxx10x.xxx] compruebe los tamaños de archivo
+en la primera semana del mes siguiente. Desde nuestro programa ftp tiene
+un error en el mismo que revuelve la fecha [trató de arreglar y no] una
+mirar el tamaño del archivo tendrá que hacer, pero vamos a tratar de ver una
+nueva copia tiene al menos un byte más o menos.
+
+
+Información sobre el Proyecto Gutenberg (una página)
+
+Producimos alrededor de dos millones de dólares por cada hora de trabajar. los
+tiempo que nosotros, una estimación bastante conservadora, toma es de cincuenta horas
+Para obtener cualquier texto electrónico seleccionado, entró, corregir, editar, los derechos de autor
+buscado y analizado, las letras escritas de derechos de autor, etc.
+proyectada audiencia es de cien millones de lectores. Si nuestro valor
+Se estima por el texto nominalmente a un dólar entonces producimos $ 2
+millón de dólares por hora este año a medida que liberamos treinta y seis de texto
+Archivos por mes, o 432 más Etexts en el 1999 para un total de 2000 +
+Si éstas alcanzan sólo el 10% de la población informatizada, entonces la
+total debe llegar a más de 200 mil millones Etexts regalado este año.
+
+El objetivo del Proyecto Gutenberg es regalar un billón de Etext
+Archivos para el 31 de diciembre de 2001. [10.000 x 100.000.000 = 1 billón]
+Se trata de diez mil títulos cada uno a cien millones de lectores,
+que sólo es ~ 5% del número actual de usuarios de computadoras.
+
+En nuestras tarifas revisadas de la producción, vamos a llegar a sólo un tercio
+de esa meta antes de finales de 2001, o alrededor de 3.333 a menos que Etexts
+gestionar para conseguir algo de financiación real; Actualmente nuestros fondos es en su mayoría
+del sueldo de Michael Hart en el Carnegie-Mellon, y una
+surtido de regalos esporádicos; este salario sólo es bueno para unos pocos
+más años, por lo que están buscando algo para reemplazarlo, ya que
+no quieren Proyecto Gutenberg a ser tan dependiente de una persona.
+
+Necesitamos sus donaciones más que nunca!
+
+
+Todas las donaciones deben ser hechas a "Proyecto Gutenberg / CMU", y son
+deducibles de impuestos en la medida permitida por la ley. (CMU = Carnegie-
+Mellon University).
+
+Por estas y otras cuestiones, por favor enviar por correo a:
+
+proyecto Gutenberg
+P. O. Box 2782
+Champaign, IL 61825
+
+Cuando todos los demás de correo electrónico falla. . .try nuestro Director Ejecutivo:
+Michael Hart <hart@pobox.com>
+hart@pobox.com hacia delante para hart@prairienet.org~~V y archive.org
+si su correo rebota desde archive.org, todavía veré, si
+rebota desde prairienet.org, mejor que vuelva a enviar más adelante. . . .
+
+Preferiríamos que le envíe esta información por correo electrónico.
+
+******
+
+Para acceder a etexts Proyecto Gutenberg, utilizar cualquier navegador Web
+para ver http://promo.net/pg. Este sitio tiene una lista de Etexts
+autor y por título, e incluye información sobre cómo
+a involucrarse con el Proyecto Gutenberg. También podría
+descargar nuestros boletines anteriores, o suscribirse aquí. Esta
+es uno de nuestros principales sitios, por favor correo electrónico hart@pobox.com,
+para una lista más completa de nuestros diversos sitios.
+
+Para ir directamente a las colecciones etext, utilizar FTP o cualquier
+navegador web para visitar un espejo Proyecto Gutenberg (espejo
+sitios están disponibles en 7 continentes; espejos se enumeran
+en http://promo.net/pg).
+
+Los usuarios de Mac, NO apuntar y hacer clic, escribir a máquina funciona mejor.
+
+Ejemplo de sesión FTP:
+
+ftp ftp.ibiblio.org
+entrada: anónimo
+contraseña: su entrada @
+cd pub / docs / libros / Gutenberg
+cd etext90 través etext99 o etext00 través etext01, etext02 etc.
+dir [ver archivos]
+obtener o MGET [para obtener archivos. . bin .set de archivos zip]
+GET GUTINDEX. ?? [Obtener el listado de los libros de un año, por ejemplo, GUTINDEX.99]
+GET GUTINDEX.ALL [para obtener una lista de todos los libros]
+
+***
+
+** La información preparada por el asesor legal del Proyecto Gutenberg **
+
+(Tres páginas)
+
+
+*** ** INICIAR LA LETRA PEQUEÑA ** DE DOMINIO PÚBLICO Etexts ** *** START
+¿Por qué es este "letra pequeña!" declaración aquí? Ya sabes: abogados.
+Nos dicen que nos pueden demandar si hay algo mal con
+su copia de este texto electrónico, incluso si lo ha hecho de forma gratuita desde
+alguien que no sea nosotros, e incluso si lo que está mal, no es nuestra
+culpa. Así, entre otras cosas, este "letra pequeña!" declaración
+renuncia a la mayor parte de nuestra responsabilidad hacia usted. También le dice cómo
+puede distribuir copias de este texto electrónico si quieres.
+
+* ANTES! * USAR o leer este eText
+Mediante el uso o la lectura de cualquier parte de este proyecto Gutenberg-tm
+etext, que indica que entiende, acepta y acepta
+esta "letra pequeña!" declaración. Si no lo hace, puede recibir
+la devolución del dinero (si los hay) que pagó por este etext por
+el envío de una solicitud dentro de los 30 días de recibir a la persona
+lo obtuvo de un. Si ha recibido este texto electrónico en una física
+medio (tal como un disco), debe devolverlo con su solicitud.
+
+ACERCA Etexts Proyecto Gutenberg-TM
+Este proyecto etext Gutenberg-tm, como la mayoría PROYECTO Gutenberg-
+etexts tm, es una obra "de dominio público" distribuido por el profesor
+Michael Hart a través de la Asociación Proyecto Gutenberg, en la
+Universidad Carnegie-Mellon (el "Proyecto"). Entre otros
+cosas, esto significa que nadie es dueño de los derechos de autor de Estados Unidos
+en o para este trabajo, por lo que el proyecto (y usted!) puede copiar y
+distribuirlo en los Estados Unidos sin permiso y
+sin pagar derechos de autor. Las reglas especiales, establecidas
+a continuación, aplicar si desea copiar y distribuir este texto electrónico
+bajo la marca registrada "Proyecto Gutenberg" del proyecto.
+
+Para crear estos textos-e, el Proyecto gasta considerables
+los esfuerzos para identificar, transcribir y corregir dominio público
+trabajos. A pesar de estos esfuerzos, etexts del Proyecto y cualquier
+medio en el que pueden estar en puede contener "defectos". Entre otros
+cosas, defectos pueden tomar la forma de incompleta, incorrecta o
+dañar los datos, errores de transcripción, un derecho de autor o de otro
+violación de la propiedad intelectual, un defectuoso o dañado
+disco u otro medio etext, un virus de ordenador o computadora
+códigos que dañan o no pueden ser leídos por su equipo.
+
+GARANTÍA LIMITADA; EXCLUSIÓN DE DAÑOS
+Pero para el "Derecho de reemplazo o el reembolso" se describe a continuación,
+[1] Proyecto (y cualquier otra persona a la que pueden recibir este
+etext de como un proyecto Gutenberg-tm etext) se exime de toda
+responsabilidad hacia usted por daños, costos y gastos, incluyendo
+honorarios de abogados, y [2] No tienes RECURSOS por negligencia o
+BAJO ESTRICTA RESPONSABILIDAD, O POR INCUMPLIMIENTO DE LA GARANTÍA O CONTRATO,
+INCLUYENDO PERO NO LIMITADO A INDIRECTOS, MORALES
+O FORTUITOS, AUNQUE dar aviso de la
+Posibilidad de tales daños.
+
+Si usted descubre un defecto en este texto electrónico dentro de los 90 días de
+que lo recibe, puede recibir un reembolso del dinero (si lo hay)
+que pagó por ella mediante el envío de una nota explicativa dentro de ese
+tiempo para la persona que lo recibió de. Si usted lo recibió
+en un medio físico, debe devolverlo con su nota, y
+dicha persona puede optar por administrarle alternativamente un reemplazo
+copia. Si usted lo recibió por vía electrónica, dicha persona puede
+optar por administrarle alternativamente una segunda oportunidad de
+recibirlo electrónicamente.
+
+ESTA eText disponga otra cosa "TAL CUAL". NINGUNA OTRA
+GARANTÍAS DE CUALQUIER TIPO, explícitas o implícitas, están hechas para USTED COMO
+AL eText u otro soporte de TI puede estar en, INCLUYENDO PERO NO
+GARANTÍAS DE COMERCIALIZACIÓN O IDONEIDAD PARA UN
+PROPÓSITO PARTICULAR.
+
+Algunos estados no permiten la renuncia de garantías implícitas o
+la exclusión o limitación de daños consecuentes, por lo que la
+renuncias y exclusiones anteriores pueden no aplicarse en su caso, y usted
+puede tener otros derechos legales.
+
+INDEMNIDAD
+Va a compensar y mantener el proyecto, sus directores,
+oficiales, miembros y agentes de toda responsabilidad, costo
+y gastos, incluyendo honorarios de abogados, que surjan directa o
+indirectamente de cualquiera de los siguientes que usted hace o causa:
+[1] distribución de este texto electrónico, [2] alteración, modificación,
+o adición al texto electrónico, o [3] cualquie defecto.
+
+Distribución bajo "Proyecto Gutenberg-tm"
+Usted puede distribuir copias de este texto electrónico o electrónicamente o de
+disco, libro o cualquier otro medio si bien elimina este
+"¡Pequeña impresión!" y todas las demás referencias al Proyecto Gutenberg,
+o:
+
+[1] Sólo dar copias exactas del mismo. Entre otras cosas, esto
+     requiere que no se retiran, alterar o modificar el
+     etext o esta "letra pequeña!" declaración. Sin embargo es posible,
+     si lo desea, distribuir este texto electrónico de lectura mecánica
+     binario, comprimido, recargo, o la forma de propiedad,
+     incluida cualquier forma resultante de la conversión de palabra pro-
+     procesamiento o software de hipertexto, pero sólo en la medida
+     *YA SEA*:
+
+     [*] El texto electrónico, cuando se muestra, es claramente legible, y
+          * no * contener caracteres distintos de los
+          pretendido por el autor de la obra, aunque tilde
+          (~), Asterisco (*) y subrayado (_) Los personajes pueden
+          ser usados ​​para transmitir puntuacion destinado por el
+          Autor y caracteres adicionales pueden ser utilizados para
+          indicar enlaces de hipertexto; O
+
+     [*] El texto electrónico puede ser convertido fácilmente por el lector en
+          ningún gasto en ASCII, EBCDIC o equivalente
+          formar por el programa que muestra el texto electrónico (como es
+          el caso, por ejemplo, con la mayoría de los procesadores de texto);
+          O
+
+     [*] Usted proporciona, o se compromete a proporcionar también a petición en
+          sin costo adicional, con cargo o gasto, una copia de la
+          etext en su forma ASCII plano original (o en EBCDIC
+          u otra forma patentada equivalente).
+
+[2] Honra a lo dispuesto en el reembolso y el reemplazo de este etext
+     "¡Pequeña impresión!" declaración.
+
+[3] Pagar una cuota de licencia de marca con el Proyecto del 20% de la
+     Derivar las ganancias netas que calculan utilizando el método que se
+     ya utilizar para calcular sus impuestos aplicables. Si tu
+     no derivan beneficios, sin regalía es debido. Las regalías son
+     a nombre de "Proyecto Gutenberg Asociación / Carnegie-Mellon
+     Universidad "dentro de los 60 días siguientes a cada
+     fecha en la que se prepara (o la obligación legal de preparar)
+     su declaración (periódica o equivalente) anual de impuestos.
+
+¿QUÉ SI QUIERES * * Para enviar dinero, incluso si USTED NO TIENE QUE?
+El Proyecto acepta con gratitud las contribuciones en dinero, tiempo,
+máquinas de escaneo, el software de OCR, etexts de dominio público, derechos
+licencias de copyright gratuitas, y cada otro tipo de contribución
+que se pueda imaginar. El dinero debe ser pagado a "Proyecto Gutenberg
+Asociación / Universidad Carnegie-Mellon ".
+
+Estamos pensando en hacer algunos cambios en nuestra estructura donación
+en 2000, así que sería bueno para mí, hart@pobox.com correo electrónico de antemano.
+
+
+
+
+* TERMINAR LA LETRA PEQUEÑA! DE DOMINIO PÚBLICO * Etexts Ver.04.29.93 * FIN *
+
+
+
+
+
+Preparado por David Reed haradda@aol.com o davidr@inconnect.com
+
+
+
+Parte 1 Faust
+de Johann Wolfgang von Goethe
+
+NOTA PRELIMINAR
+
+Johann Wolfgang von Goethe, el más grande de Alemania
+hombres de letras, nació en Frankfort-on-the-Main, 28 de agosto
+1749. Su padre era un hombre de recursos y posición, y él
+supervisó personalmente la educación temprana de su hijo. El joven
+Goethe estudió en las universidades de Leipzig y Estrasburgo, y en
+1772 entró en la práctica de la ley en Wetzlar. Por invitación
+de Karl August, duque de Sajonia-Weimar, se fue en 1775 para vivir en
+Weimar, donde ocupó una serie de cargos políticos, convirtiéndose
+asesor jefe del Duque. De 1786 a 1788 viajó por Italia,
+y desde 179 'a 1817 dirige el teatro ducal en Weimar. Él
+tomó parte en las guerras contra Francia, 1792-3, y en la siguiente
+año se inició su amistad con Schiller, que duró hasta la última de
+muerte en 1805. En 1806 se casó con Christiane Vulpius. A partir de cerca
+1794 dedicó principalmente a la literatura, y después de una vida de
+productividad extraordinaria murió en Weimar, 22 de Marzo, 1832.
+La más importante de las obras de Goethe produjo antes de ir a
+Weimar eran su tragedia "Götz von Berlichingen" (1773), que
+primero le dio fama, y ​​"Las penas del joven Werther", una
+novela que obtuvo una enorme popularidad durante la llamada
+período de "Sturm und Drang". Durante los años en Weimar antes de que él
+sabía Schiller comenzó "Wilhelm Meister", escribió el drama,
+"Ifigenia", "Egmont", y "Torquato Tasso", y su "Reinecke
+Fuchs ". Para el período de su amistad con Schiller pertenecen al
+continuación de "Wilhelm Meister", el hermoso idilio de "Hermann
+y Dorothea, "y las" Elegías romanas. "En el último período,
+entre la muerte de Schiller en 1805 y su propia, aparecido "Fausto"
+"Afinidades electivas", su autobiográfica "Dichtung und
+Wahrheit "(" Poesía y verdad "), su" Viaje a Italia ", y mucho
+el trabajo científico, y una serie de tratados sobre arte alemán.
+
+Aunque la enumeración anterior no contiene más que un frente de selección
+los títulos de las obras más conocidas de Goethe, es suficiente mostrar la
+extraordinaria fertilidad y la versatilidad de su genio. Rara vez tiene una
+hombre de letras tenía tan lleno y variado una vida, o ha sido capaz de por lo
+polifacético un desarrollo. Sus actividades políticas y científicas,
+aunque empequeñecido ante los ojos de nuestra generación por su artística
+producción, sin embargo, mostró la capacidad de adaptación de su talento en la mayor parte
+diversas direcciones, y ayudaron a darle ese equilibrio de los estribos
+y la amplitud de visión en la que ha sido superado por ningún genio
+del mundo antiguo o moderno.
+
+La expresión más grande y más representativo de Goethe
+poderes es, sin duda, que se encuentran en su drama de "Fausto"; pero
+antes de tratar con la obra maestra de Goethe, vale la pena decir
+algo de la historia de la historia en la que se fundamenta - la
+ejemplo más famoso de la antigua y extendida leyenda del hombre
+que vendió su alma al diablo. El histórico Dr. Faust parece
+han sido un filósofo auto-llamada que viajó por Alemania
+en la primera mitad del siglo XVI, ganar dinero por el
+la práctica de la magia, la adivinación del futuro, y cura pretendidos. Él murió
+misteriosamente hacia 1540, y una leyenda se extendió rápidamente en que la
+diablo, por cuya ayuda se excedió en sus maravillas, había llevado finalmente
+fuera de él. En 1587 una vida de él apareció, en el que se atribuyen a
+él muchas hazañas maravillosas y en el que se presenta como una
+terrible advertencia en contra del deseo excesivo para el aprendizaje secular y
+admiración por la belleza antigua, que caracteriza el humanista
+movimiento del tiempo. En este aspecto, la leyenda de Fausto es una
+expresión de principios del protestantismo popular, y de su antagonismo hacia
+las tendencias científicas y clásicas del Renacimiento.
+
+Si bien una sucesión de libros Faust fueron apareciendo en Alemania, la
+la vida original fue traducido al Inglés y dramatizada por
+Marlowe. jugadores ingleses trajeron la obra de Marlowe de nuevo a
+Alemania, donde fue copiado por los actores alemanes, degeneró en
+farsa espectacular, y, finalmente, en un espectáculo de marionetas. A través de esto
+espectáculo de marionetas Goethe hizo conocido con la leyenda.
+
+En el momento en que Goethe tenía veinte años, la leyenda de Fausto tenía
+fascinado su imaginación; durante tres años antes de ir a
+Weimar había estado trabajando en escenas dispersas y trozos de
+diálogo; y aunque se suspendió composición real sobre ella durante
+tres períodos distintos, siempre fue para reanudar, y cerró
+en faenas, en él sólo con su vida. Así, el período de tiempo entre
+sus primeros experimentos y los toques finales es más de sesenta años.
+Durante este período los planos de la estructura y la significación
+de la obra se sometió inevitablemente profundas modificaciones, y
+éstos han afectado de forma natural la unidad del resultado; sino, por el
+Por otra parte, este largo compañerismo y la recurrencia persistente
+la tarea de la juventud a la vejez han hecho de una manera única la
+registro de la personalidad de Goethe en toda su riqueza y diversidad.
+
+El drama se le dio al público por primera vez como un fragmento en 1790; entonces
+la Primera Parte completado apareció en 1808; y, finalmente, la segunda
+Parte fue publicada en 1833, el año después de la muerte del autor.
+Escribiendo en "Dichtung und Wahrheit" del periodo 1770,
+cuando estaba en Estrasburgo con. Herder, Goethe dice: "El
+leyenda de marionetas-play significativa. . . eco y dejen entrar a muchos
+tonos dentro de mí. Yo también había desplazado alrededor de todo el conocimiento, y
+con suficiente antelación se había señalado a sentir la vanidad de ella. Yo también tuve
+hecho todo tipo de experimentos en la vida, y siempre había regresado
+más insatisfechos y más atormentado. Ahora estaba materialización de estas
+cosas, como muchos otros, acerca conmigo y yo con deleitando
+en horas de soledad, pero sin escribir nada. "Sin
+entrar en los detalles de la experiencia que subyace en estos
+Es decir, podemos ver la estén atrapando de que la simpatía con el héroe de
+la vieja historia que fue la base de su fascinación y que
+representaron salida de Goethe de la catástrofe tradicional
+de la condenación de Fausto.
+
+De los elementos en el Faust terminado que se derivan de la
+leyenda una idea aproximada puede ser obtenida del "Doctor Fausto" de
+Marlowe, impreso en el presente volumen. Ya en 1674 una vida de
+Fausto había contenido el incidente del filósofo de enamorarse
+con una criada; pero la historia desarrollada de Gretchen es de Goethe
+propio. Los otros elementos añadidos a la trama pueden encontrar mediante el
+la comparación con Marlowe.
+
+Huelga decir que el "Fausto" de Goethe no deriva su
+la grandeza de su conformidad con las normas tradicionales de lo que una
+tragedia debe ser. Él mismo estaba acostumbrado a referirse a ella
+cínicamente como una monstruosidad, y sin embargo se puso en ella como
+intensamente como Dante puso a sí mismo en "La Divina Comedia". UN
+explicación parcial de esta aparente contradicción en el autor de
+actitud que se encuentran en lo que se ha dicho de su forma de
+composición. Goethe comenzó en su juventud romántica, y se acogió
+imprudentemente a sí mismo de los elementos sobrenaturales en la leyenda, con
+el desconocimiento de la razón y la plausibilidad de la característica
+estado de ánimo romántico. Cuando regresó a ella en el comienzo de la nueva
+siglo sus estándares artísticos habían cambiado, y el sobrenaturalismo
+ahora podría ser tolerado solamente por ser hecho simbólico. Así él
+hace que la carrera de Fausto como todo un emblema del triunfo de
+el esfuerzo persistente por el ideal sobre la tentación de encontrar
+completar la satisfacción en el sentido, y prepara al lector para este
+interpretación anteponiendo el "Prólogo en el cielo." los
+elaboración de este elemento simbólico es el responsable de este tipo de escenas
+como la Noche de Walpurgis y el Intermezzo, escenas llenas de energía
+e infinitamente sugerente, pero destructivo de la unidad de la obra como
+una tragedia de la vida humana. Sin embargo, sigue existiendo en esta primera parte, incluso en
+su forma final mucho de lo que es realista en el mejor sentido, la carousal
+en el sótano de Auerbach, el retrato de Marta, la Pascua por la mañana
+caminar, el carácter y el destino de Margaret. Es elementos tales como
+éstos que han apelado al público lector más amplio y que tienen
+naturalmente, ha subrayado por el desempeño en el escenario, y por
+virtud de estos solos "Fausto" puede incluirse en un gran drama; pero es
+el resultado de cavilaciones de Goethe sobre el misterio de la vida humana,
+prefigurada en las partes simbólicas y elaborado con todavía
+mayor complejidad y aún de mayor alcance sugestión - y,
+hay que añadir, con la profundización de la oscuridad - en la segunda parte,
+que han dado a la obra su lugar con "Trabajo", con el
+"Prometeo encadenado", con "La Divina Comedia", y con
+"Aldea."
+
+
+
+
+
+Dedicación
+
+YE vacilante formas, de nuevo os envuelvan, yo no,
+Como Erst sobre mi os con problemas de vista robó;
+Debo esta vez intento de estrechar, para sostener vosotros?
+Aún así la ilusión amo anhela mi alma?
+Ye prensa en todas partes! Ven, pues, su cautiva abrázame,
+Como hacia arriba desde el rollo de niebla vaporosa vosotros;
+Dentro del pulso palpitante de mi juventud mama está saltando,
+Fann'd por el aliento de su magia marcha circundante.
+
+Sombras con cariño amaban aparecerá, su tren de asistir,
+Y visiones justas de muchos días de felicidad;
+En primer lugar, el amor y la amistad de su amo acentos de mezcla,
+Al igual que en cierta antigua laico, la mitad que expira;
+El dolor revive, su gemido de angustia enviar
+Volver o'er de forma laberíntica desviada de la vida,
+Y los nombres de los seres queridos, los cuales se bereaving Destino
+De horas justas de la vida, me ha dejado tras de sí el duelo.
+
+Me oyen mi no más tarde de canto cadencia,
+Las almas por las que mi anterior establece canté;
+Dispersado la multitud, su vuelo cortado ahora volando;
+Silencio son las voces que sonó sensible.
+Por extraño multitudes la lira de Orfeo ahora encordado,
+E'en su aplauso es para mi corazón una punzada;
+De edad, que escuchó mi canción, contento de corazón,
+Si todavía viven, ahora vagan ampliamente separado.
+
+Un anhelo larga no sentida, cada vaivén de impulso,
+Para Yon calma espíritu-reino eleva mi alma;
+En la cadencia entrecortada, como cuando juego Zephyr,
+Los aficionados del arpa eólica, mis números ruedan;
+Lágrima sigue lágrima, mi corazón constante obedecer
+El impulso de licitación, pierde su control;
+Lo que poseo como de lejos veo;
+Aquellos que he perdido convierten en realidades a mí.
+
+
+
+
+
+PRÓLOGO PARA EL TEATRO
+
+GERENTE. Poeta dramático. HOMBRE FELIZ.
+
+GERENTE
+
+YE dos, en la angustia y de aprieto
+Los verdaderos amigos a quien tan a menudo he encontrado,
+Digamos, por nuestro esquema en terreno alemán,
+¿Qué perspectiva tenemos de éxito?
+De buena gana me complacer al público, ganar sus gracias;
+Ellos viven y dejan vivir, por lo que se, pero se encuentran.
+Los postes se erigen ahora, y los tablones,
+Y todos esperamos un convite festivo.
+Sus lugares tomados, que, con las cejas rais'd,
+Sentarse pacientemente, y de buena gana se amaz'd.
+Sé que el arte de golpear el gusto del público,
+Sin embargo, nunca se sintió la falta de un temor tan agudo;
+Es cierto, ellos no están acostumbrados a lo mejor,
+Pero entonces la cantidad atroz que han leído ..
+¿Cómo hacer que nuestro pulso de entretenimiento, nuevo,
+Y, sin embargo significativa y agradable también?
+Para ser llano, Me encanta ver a la multitud,
+En cuanto a nuestra cabina de la marea viva que avanza;
+A medida que la onda en onda se propaga a lo largo de sucesivas,
+Y a través de estrechas prensas contundentes portal del cielo;
+Todavía en plena luz del día, antes de que el reloj marque cuatro,
+Con golpes su camino hacia la caja que adopten;
+Y, como para el pan en tiempo de hambre, a la puerta de la panadería,
+Para boletos están contenidos sus cuellos se rompan.
+Tales varias mentes bardo solo pueden influir,
+Mi amigo, oh funciona este milagro a día!
+
+POETA
+
+Oh de la abigarrada multitud no decir delante de mí,
+En cuyo aspecto las alas Spirit su vuelo!
+
+Ocultar la explanada en alza, Te imploro,
+Cuyo vórtice nos atrae con fuerza irresistible.
+No, en cierto rincón del cielo pacífica restáurame,
+Cuando sólo para la proliferación de bardo pura delicia,
+Donde el amor y la amistad ceden su bendición más selecto,
+dicha verdadera de nuestro corazón, con el dios-como las caricias mano.
+
+Lo que en las profundidades del espíritu se había creado,
+¿Qué hay con timidez la forma de sonido indica en el labio;
+Una falla ahora, con palabras ahora, bien coordinado, acoplado,
+En el tumulto salvaje de la hora es ahogaron;
+Completo oft pensamiento del poeta durante años esperó baño
+Hasta que al fin con la forma perfecta 'tis coronada;
+Lo que deslumbra, por el momento de nacer, debe perecer;
+Lo verdadero es la posteridad se aprecian.
+
+HOMBRE FELIZ
+
+Esto no puede posteridad que odio;
+Sobre la posteridad si yo fuera a Prate,
+¿Quién, pues los vivos divertiría? Para ellos
+Tendrá desvío, ay, y 'tis que les es debido.
+La presencia de un compañero alegre en su juego,
+Me parece que también debe contar para algo demasiado;
+Cuyo ingenio cordial el público todavía inspira,
+Sabe de su estado de ánimo cambiante ningún sentimiento enojado;
+Un círculo más amplio que desea,
+Para profundidades de su corazón con más seguridad apelando.
+Para que funcione, entonces! Dar una obra maestra, mi amigo;
+Trae de lujo con sus trenes de coro que nos ocupa,
+Sentido, la razón, el sentimiento, la pasión, pero asistir!
+Deje la locura también se hinche el coro trágico.
+
+GERENTE
+
+En jefe, de preparar incidente suficiente!
+Un espectáculo que quieren, vienen a bostezar y mirar.
+Girar por sus ojos abundantes de ocupación,
+De manera que la multitud puede preguntarse mirada,
+Usted por masa misma ha ganado su reputación,
+
+En masa solo se puede someter a las masas,
+Cada continuación, selecciona en el tiempo lo que conviene a su inclinación.
+Trae mucho, algo que traer para diversas clases,
+Y de la casa va cada uno contenido.
+Le das una pieza, en el extranjero en pedazos lo envían!
+'Es un ragout - éxito la mayoría de las necesidades de asistir a la misma;
+¡Es fácil de servir para arriba, tan fácil de inventar.
+Un conjunto finish'd lo que las botas que presente!
+Completo pronto la voluntad pública en pedazos la rompa.
+
+POETA
+
+¿Cómo entenderá dicha artesanía, ya que no se puede sentir!
+¿Cómo se rebela la mente del verdadero artista!
+La basura lo siento en el que estos mequetrefes acuerdo,
+Aquí se aprobó en principio, me parece.
+
+GERENTE
+
+Tal reproche no me molesta ni un ápice!
+Quien el trabajo eficiente se dobla,
+Debe elegir el instrumento más apto.
+¡Considerar! 'Tis la madera blanda que tiene que dividir;
+Creo también para quien se escribe, yo oro!
+Uno viene para pasar una hora de distancia;
+Uno de la placa festiva, un invitado saciado;
+Otros, más temidas que el resto,
+Del diario de lectura de prisa a la obra.
+En cuanto a un baile de máscaras, con la mente ausente, presionan,
+la curiosidad pura su aleteo pasos;
+Las señoras muestran sus personas y su forma de vestir,
+Actores sin pagar su interposición servicio.
+¿Qué sueños os prive de la altura de su poeta?
+Lo que pone una casa llena de humor alegre?
+ver más de cerca a sus clientes de la noche!
+La mitad son fríos, la mitad son groseros.
+Uno, el juego más, anhela un juego de cartas;
+Otra una noche salvaje en la alegría desenfrenada pasaría.
+Pobres tontos que se refiere a las justas musas.
+¿Por qué la corte para un fin tan insignificante?
+Os digo que darles más, aún más, 'tis todo lo que pido,
+Por lo tanto nunca va a desviarse mucho de la meta;
+Su público buscan para mistificar, convencer; -
+Para satisfacerlas - que es una tarea difícil.
+¿Qué te aflige? arte enraptured o angustiado?
+
+POETA
+
+¡Salir! en otro lugar a otro sirviente elegir
+¡Qué! La bardo se su abuso de poder divino?
+derecho más elevada del hombre, el legado de alta clase de la naturaleza,
+Para su propósito media vilmente deporte de distancia?
+¿De dónde viene su dominio que sobre el pecho humano,
+De ahí que sobre el elementos de su dominio,
+Pero a partir de la armonía que, brotando de su alma,
+Dibuja de nuevo en su corazón toda la maravillosa?
+Con la mano descuidada cuando alrededor de su eje, la naturaleza
+Enrolla el hilo interminable de la vida;
+Cuando 'el choque mediados del ser toda criatura
+Se mezcla en la lucha inextricable duras;
+Que se ocupa de su curso invariable hasta que se cae,
+En el flujo rítmico de tono measur'd de música?
+Cada nota solitaria cuyo genio ha llamado;
+Para engrosar el potente coro al unísono?
+¿Quién en la tormenta ve low'ring pasión?
+O al ras del pensamiento serio en el resplandor de la noche?
+Quién cada flor en la floración de primavera-tiempo dulce
+A lo largo de la trayectoria del ser querido haría strow?
+Quién, hojas verdes familiares entrelazamiento de la naturaleza,
+guirnalda de la gloria de wreathe, ganó en todos los ámbitos?
+Se asegura de Olympus, que combina los poderes celestiales?
+poderoso espíritu del hombre, en el Bard reveal'd!
+
+HOMBRE FELIZ
+
+Ven, pues, emplear su inspiración elevada,
+Y continuar vocación del poeta,
+Del mismo modo que llevamos a cabo una historia de amor.
+Dos se encuentran por casualidad, el placer, que permanecen allí,
+Sin darse cuenta, se link'd, que apenas sé cómo;
+Fortuna parece ahora propicio, ahora adversa,
+Luego vienen rapto alternativo y la desesperación;
+Y 'tis un romance verdadero ERE de una cuenta.
+Sólo un drama tales Vamos ahora a componer.
+Sumergen sin miedo en la vida - sus profundidades dan a conocer!
+Cada uno vive, no para muchos es notorio,
+'Tela cruzada seiz'd interés y donde quiera que se muestra;
+Imágenes brillantes, pero ocultan su significado:
+Un rayo de la verdad a través del error reluciente,
+Así que la mejor cerveza elixir,
+Para la humanidad encanto, y edificar a ellos también.
+Luego flores justas de los jóvenes se agolpan para ver su obra,
+Y espere a que en un oráculo; mientras ellos,
+Las almas tiernas, que aman el estado de ánimo de fusión,
+Chupar de su trabajo su comida melancolía;
+Ahora bien, esto, y ahora que, se remueve profundamente,
+Cada uno ve el funcionamiento de su corazón al descubierto.
+Sus lágrimas, sus risas, te mando con facilidad,
+La elevada todavía honran, el amor ilusorio.
+Su caballeros finish'd que nunca pueden agradar;
+Una mente en crecimiento por sí solo agradecidos probar.
+
+POETA
+
+Entonces me devuelva primer oro de la juventud,
+Cuando mi propio espíritu también estaba creciendo,
+Cuando desde mi corazón th 'rima espontáneamente
+Gush'd sucesivamente, una fuente para siempre fluye;
+Entonces la niebla sombría del mundo conceal'd,
+Y cada brote dulce promesa hecha,
+De las maravillas aún por reveal'd,
+Como a través de los valles, con incrustaciones de flores,
+El sacrificio de un millar de flores que stray'd.
+Nada tenían que, sin embargo, una rica profusión!
+La sed de verdad, la alegría en cada ilusión amo.
+Dame unquell'd esos impulsos para demostrar; -
+Éxtasis tan profundo, su éxtasis fue el dolor,
+El poder del odio, la energía del amor,
+Dame, oh devuélveme mi juventud de nuevo!
+
+HOMBRE FELIZ
+
+Juventud, mi buen amigo, que sin duda necesita
+Cuando los enemigos en la batalla redonda están presionando,
+Cuando una hermosa doncella, con el corazón en el fuego,
+Se cuelga en su cuello con caricias amo,
+Cuando a lo lejos, la corona del vencedor,
+Para alcanzar el objetivo inciteth duramente ganada;
+Cuando desde la danza vertiginosa, para ahogar
+Su sentido, de la noche a invita carouse.
+Pero los acordes familiares entre
+Confiadamente al barrer, con astucia agraciado,
+Mientras que a su objetivo, el verso largo
+Su trayectoria de la bobina se está ejecutando con dulzura;
+Esta tarea es suya, señores de edad, a día;
+Tampoco son por lo tanto menos que en reverencia celebrado;
+Edad no nos hace pueril, como dicen popular,
+Se nos encuentra auténticos hijos e'en en campo.
+
+GERENTE
+
+Una tregua a las palabras, el mero sonido vacío,
+Permiten obras en longitud aparecen, mis amigos!
+Si bien cumplidos ociosos que redonda,
+Es posible lograr algunos fines útiles.
+¿Por qué hablar de la vena poética?
+Que duda no lo sabrán;
+Si bardos vosotros estéis vosotros mientras mantienen,
+Ahora deje que su inspiración demostró.
+Para que se conoce lo que necesitamos,
+sidra de SIP es nuestro deseo;
+Ven, yo como elaborar cerveza sin demora!
+Mañana ve deshecho, lo que no sucede hoy en día
+Aún así seguir adelante, ni los neumáticos nunca!
+La posible, con una firme confianza,
+Deberán resolver por la comprensión copete;
+Entonces ella nunca dejar ir a su corchete,
+Y trabajos sobre, porque ella debe.
+Por lo tanto, para llevar a cabo su juego,
+Tampoco escenas ni mecanismo de sobra!
+lámparas del cielo emplean, el mayor y el menor,
+Ser generosos de las luces estelares,
+Agua y fuego, y rocosas alturas,
+Sobra nada en absoluto, ni pájaros, ni animal.
+Por lo tanto permitir que un amplio ámbito de la creación
+Inmediatamente en este nuestro stand estrecha aparece,
+Y con la velocidad considerado, a través del hechizo de lujo,
+Viaje desde el cielo, desde allí a través del mundo, a la campana!
+
+
+
+
+
+Prólogo en el cielo
+
+EL SEÑOR. Los anfitriones celestiales.
+Posteriormente MEPHISTOPHELES.
+
+Tiempo de tres Arcángeles vienen hacia adelante
+
+RAPHAEL
+
+El sol, en la antigua apariencia, compitiendo
+Con esferas hermano en el canto rival,
+Con tempestad de marcha, su orbe de completar,
+Mueve su curso a lo largo de predestin'd;
+Su aspecto a la excelsa poderes
+Da fuerza, aunque él no puede comprender;
+Trascender el pensamiento, las obras eterna
+Son justo como en el día primal.
+
+GABRIEL
+
+Con velocidad, pensado desconcertante, que no haya disminuido,
+remolinos esplendor de la Tierra dando vueltas en vuelo;
+Su Eden-brillo alterna
+Con, la noche solemne imponente;
+grandes olas del océano en conmoción salvaje,
+Contra la base profunda de las rocas son arrojados;
+Y con las esferas, tanto en roca y el océano
+Eternamente se giró con rapidez.
+
+MIGUEL
+
+Y tempestades rugen en la emulación
+De mar a tierra, de la tierra al mar,
+Y ardor de forma, sin dejar de fumar,
+Una cadena de la agencia maravillosa,

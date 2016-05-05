@@ -1,0 +1,26 @@
+A list of possible API's we can use:
+
+1. Last 10k: https://dev.last10k.com/signup/
+	info: 5 calls/min 500 calls/week for free
+	RESTful methods
+
+2. xignite: http://www.xignite.com/
+	has many different API's we could use
+	would have to string together a bunch of 7 day free trials
+
+3. Zack's Sales Estimates: https://www.quandl.com/data/ZSE
+	would have to email to ask about possibly getting an
+	institutional account
+
+4. Feed Syndicate: https://www.feedsyndicate.com/
+	would have to contact to get access
+
+==================================================================
+
+Another option is to just use this website:
+
+http://www.enclout.com/
+
+and then use a C++ library like cpp-netlib or boost to get the
+data from the webpage that results from our requests, parse it,
+and then use the contents however we want.

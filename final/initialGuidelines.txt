@@ -1,0 +1,23 @@
+Brad Sherman, Brent Marin, Charlie Osborne
+Stock Portfolio Project
+
+Strategies:
+	1. Long Short (Low Risk): Model price of a stock using linear regression
+	2. Momentum (Slightly Higher Risk): Look at momentum of a stock's movement for a certain
+			amount of time, and make very frequent trades
+
+Goals:
+	1. Make a GUI with total $ they want to invest, possibly give them a choice
+	of investing strategy from list above, display profit loss graph, and let
+	them choose how long to run our simulation for
+
+Tools in the GUI:
+	1. Investing Strategy
+	2. Starting $
+	3. Time Period
+	4. Show Current Stocks in Portfolio
+
+Objects:
+	1. Backtest Object
+	2. Portfolio Object
+	3. 

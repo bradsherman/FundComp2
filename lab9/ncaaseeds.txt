@@ -1,0 +1,16 @@
+1 Kansas
+2 NorthCarolina
+3 Oregon
+4 Virginia
+5 Oklahoma
+6 Villanova
+7 Miami
+8 Indiana
+9 Gonzaga
+10 TexasA&M
+11 Duke
+12 Maryland
+13 IowaState
+14 Wisconsin
+15 Syracuse
+16 NotreDame

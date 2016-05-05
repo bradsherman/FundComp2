@@ -1,0 +1,23 @@
+Brad Sherman
+Fundamentals of Computing 2
+Lab 2 Report
+
+From the user's perspective, this program starts by asking the user to input the numerator
+of the first rational, and then the denominator, and then the same for the second rational.
+Once they enter their numbers, four functions are computed for them and neatly displayed in
+a fractional format. 
+
+Internally, this program starts by asking the user to input their choices for numerator
+and denominator for both rationals. Then the two Rational objects are instantiated. A 
+check is implemented in the constructor so that if a user enters 0 in the denominator, 
+they will continually be prompted until they enter something besides 0. It also uses the 
+findGCD function to put the rational fraction in simplest form (using Euclid's algorithm).
+Euclid's algorithm basically divides one number by the other, and then divides the previous
+divisor by the remainder until the remainder is zero. Once the rational is in simplest 
+form I call four functions for both the rationals. I overloaded the <<, =, +, -, *, /, and ^
+operators so that I could use the user's rational numbers in four different functions. 
+Each of the functions are computed and then neatly displayed to the user.
+
+I evaluated the program for correctness by entering many different combinations of numbers
+and ensuring that for each pair of rationals I entered that all four functions produced 
+the correct results.

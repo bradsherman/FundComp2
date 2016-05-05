@@ -1,0 +1,38 @@
+Brad Sherman
+Fundamentals of Computing 2
+Lab 4 Report
+
+When the user runs the blackjack program, they first see their score after two cards, 
+and one of the dealer's cards, like in a normal game of black jack. Then they are 
+asked if they want to hit or stand. If they choose to hit, they continue to get cards
+and see their score until they or the dealer busts, or if they choose to stand. Once
+the user chooses to stand, the dealer continues getting cards until they are above
+17 or if they bust. At the end the winner is displayed and they user is asked if they
+want to play again. Once they are done, the total user and dealer wins are displayed.
+
+This program starts by randomizing the random seed so it is not the same "random" 
+numbers everytime. Then it "opens" three decks for use in the game by using the new 
+C++ command. Then the program initializes various variables like scores, wins, and 
+cards for the dealer and the player. Then the screen is cleared and the start function
+is called to deal two cards to the dealer and the player like real blackjack. The 
+player sees their score, and only the score of one of the dealer's cards. This while 
+loop goes until the play variable is not true a.k.a. the game is over. Then the cards
+are shuffled, and the player is asked if they want to hit or stand. If they enter 1
+a card from the main deck is added to their deck and their new score is calculated.
+If they went over 21, the "busted" so the dealer automatically wins and the bust 
+variable is set to 1. Then, the dealer adds another card to their deck from the main
+deck as long as they haven't busted and they are under a score of 17. Then the dealer
+score is calculated. Then, if neither player busted and they both chose to stand,
+their scores are compared and the winner is displayed. After that, the reset function
+resets all of the variables so a new game can be played from scratch. After that, the
+main deck is checked to make sure it has 15 cards. If it doesn't, it is thrown away 
+using delete and a new deck is created. After the player chooses to be done, the three
+decks are deleted to prevent a memory leak, and the total wins for the player and the 
+dealer are displayed.
+
+This program was verified by running it many times. I thought of any way I could have 
+a memory leak and made sure that I wouldn't get one. I also checked to make sure that
+all of my CardDeck member functions worked correctly so I knew what they were doing
+when I implemented them in Blackjack. I also printed out the dealer and player scores
+each turn at first, so I could see that the right decision was being made for each 
+score.

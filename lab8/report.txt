@@ -1,0 +1,66 @@
+Brad Sherman
+Lab 8 report
+
+My group and I have switched our project from a stock market application to a simple 
+Python interpreter. I have uploaded the code to the dropbox which is a multiplication
+interpreter, and my partners did an addition and a division interpreter. We plan on 
+adding more and more features to our project as time goes on. A complete time log of 
+our work is found below:
+
+Date: 02/16/2016
+Time: 8:30p-10:00p
+Topic: Discuss what the project will be and write first deliverable
+ 
+Date: 02/29/2016
+Time: 8:00p-9:30p
+Topic: Discuss intial guidelines and get an outline of what we want for our project
+ 
+Date: 2/29/2016
+Time: 4:00-4:50p
+Topic: Worked in lab on learnig about Bloomberg API and how to use it, i.e. reading
+         documentation
+
+Date: 3/14/2016
+Time: 4:00-4:50p
+Topic: Worked in lab on downloading Bloomberg API, and trying to start a session
+
+Date: 3/18/2016
+Time: 10:20-11:20a
+Topic: We talked about the feasability of doing this project, and whether or not we
+        should switch. We decided to switch our project to a simple Python interpreter.
+
+Date: 3/19/2016
+Time: 2:00-3:00p
+Topic: Read the article about writing an interpreter.
+         URL = https://ruslanspivak.com/lsbasi-part1/
+ 
+Date: 3/20/2016
+Time: 10:00-12:00p
+Topic: Wrote a simple code to interpret math, specifically multiplication
+ 
+Total Time: 9 hours, 40 minutes
+
+Internally, my program works by taking input from the user, specifically, a multiplication
+expression. Then, the string is tokenized, breaking it up into its three components: an 
+integer, and operator, and another integer. A token object is instantiated for each of 
+these parts. Once the object is created for the left integer, a position marker moves to
+the position of the operator. Right now, it can only do multiplication so we know it will
+be a '*', but soon we will combine our programs into one so that our interpreter will be
+able to handle more operations. 
+
+I learned a lot from this simple code. During my reading, I began to learn the basics of
+how a computer interprets a script. The process of tokenizing seems very interesting to me
+and I am very excited to implement more features of the python language. In regards to the 
+rubric goals I set, my group found the Bloomberg API. After much research on it, and our 
+project in general, we decided it was out of the scope of this class. So since we changed
+I did not complete the other two goals I set. However, I did complete two other goals 
+that I made after we switched. I (we) found a new project that we are all excited about, and 
+I was able to write a few programs that compile and successfully multiplied two numbers.
+The programs we wrote may only do simple arithmetic, but the complexity behind the scenes
+makes me think that it will be fairly easy to simulate other aspects of the python language
+since we took the time to learn about tokenizing. I know we deserve the last 20 points 
+because we all read the article on our own, came together and decided to write three 
+distinct but similar programs so we all solidified our newfound knowledge, and then also
+helped each other out if one of us was struggling. Now that we have built a foundation I 
+am excited to continue building upon it until the project deadline so that we have an 
+interpreter that works on many basic Python control-flow structures.

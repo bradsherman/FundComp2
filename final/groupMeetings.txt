@@ -1,0 +1,46 @@
+Brad Sherman
+Brent Marin
+Charlie Osborne
+
+This is a log of all the time spent on our final project.
+
+Date: 02/16/2016
+Time: 8:30p-10:00p
+Topic: Discuss what the project will be and write first deliverable
+
+Date: 02/29/2016
+Time: 8:00p-9:30p
+Topic: Discuss intial guidelines and get an outline of what we want for our project
+
+Date: 2/29/2016
+Time: 4:00-4:50p
+Topic: Worked in lab on learnig about Bloomberg API and how to use it, i.e. reading
+		documentation
+
+Date: 3/14/2016
+Time: 4:00-4:50p
+Topic: Worked in lab on downloading Bloomberg API, and trying to start a session
+
+Date: 3/18/2016
+Time: 10:20-11:20a
+Topic: We talked about the feasability of doing this project, and whether or not we
+		should switch. We decided to switch our project to a simple Python interpreter.
+
+Date: 3/19/2016
+Time: 2:00-3:00p
+Topic: Read the article about writing an interpreter.
+		URL = https://ruslanspivak.com/lsbasi-part1/
+
+Date: 3/20/2016
+Time: 10:00-12:00p
+Topic: Wrote a simple code to interpret math, specifically multiplication
+
+Date: 4/6/2016
+Time: 4:00-6:00p
+Topic: Found a free API and decided to use some sort of library to request data
+		a website to and subsequently parse the stock quote data, and then use
+		a Stock class, a Portfolio class with composition to allow the user to mix
+		and match stocks. We will have a ranking algorithm based on the data we get 
+		so that we can give a forecast on the user's selection of stocks
+
+Total Time: 9 hours, 40 minutes

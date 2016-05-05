@@ -1,0 +1,39 @@
+Brad Sherman
+Fundamentals of Computing 2
+Lab 9 Report
+
+The binary tree program (special.cpp) is very easy for the user to use. When they run it,
+they are asked for a text file that contains data-label pairs separated by spaces on each
+line. The BinaryTree constructor reads these in and creates nodes for them all. Then the 
+tree is printed with all the data values of each node. The user is then asked if they want
+to search for a value, and they can search for however many values they want to. After they
+are done, the tree's data values are printed in order, in preorder, and in postorder. Then,
+the final four and championship matchups are printed, along with the champion of the 
+bracket.
+
+Internally, the binary tree constructor starts by getting a text file to get all of the data
+label pairs. Then it uses istringstream to tokenize each line of the text file and get the 
+data and label for that line. Then it uses make_pair to pair the data and label. This pair 
+is then added to a vector of pairs called data. Then it resizes a 2d vector of Node objects so that we 
+can put our tree in here first. Each entry in the data vector is used to create a new Node.
+Then there is a 2D vector with the first row containing all of the Child Nodes, and each 
+successive row is half of the previous row's size. For each remaining row, the accept parent
+member function is used to decide which leaf should be moved up to the next row. Once there
+is only one node left, this is the root and we assign that to the root private variable.
+The search function works by first checking to see if the current Node's data matches 
+the value we are looking for. If it does, we set the found variable to 1 and return it after
+printing out its data and label. If it does not, we check to see if the current node is a 
+leaf, and if so we return found which is 0 at this point. Otherwise, we call this function
+on the left and right child nodes until we either find the value or not. Preorder, postorder, 
+and inorder are all very similar, they only differ in where the recursive calls are made in
+respect to actually printing out the curent node's values. Then there is a deconstructor 
+that recursively deletes every Node object in our tree.
+
+NOTE** One problem with using istringstream is that for teams like Notre Dame I had to 
+get rid of the space in between because if I did not, I would only capture "Notre"
+
+This class was verified by using the search function for a multitude of values, making sure
+that it found values it was supposed to and did not find values that were not in the tree.
+I also verified the pre, post, and in order functions by checking multiple times that the
+order that the values were printed out were in the correct order for the corresponding 
+method.

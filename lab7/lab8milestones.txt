@@ -1,0 +1,6 @@
++20 points: Find and learn API for real time access and manipulation of data.
+
++10 points: Develop a basic Portfolio object that will keep track of basic
+information about a user's portfolio
+
++10 points: Develop a way to test our code and see if it's accurate
