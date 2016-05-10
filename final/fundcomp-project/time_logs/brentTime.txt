@@ -1,0 +1,18 @@
+Brent Marin Time Log
+
+Date      Hours  Description
+
+Spread    17.5   Group Time (documented more in depth in group meetings document)
+4/20/2016 1      Spent time researching trading algorithms
+4/24/2016 2.5    Spent time setting up class skeletons, organizing repo code
+4/25/2016 1.5    Worked on AlgorithmTester class
+4/26/2016 .75    Worked on commenting code, AlgorithmTester file io failsafes
+4/26/2016 2      Cleaned up data further, worked on AlgorithmTester
+2/26/2016 4      Wrote the MeanReversion .h and .cpp files, helped debug AlgorithmTester
+2/26/2016 4.5    Spent three hours tracking down various bugs, continued to work on mean reversion
+2/27/2016 1      Worked on mean reversion some more
+2/27/2016 1      Continued debugging mean reversion
+2/27/2016 3      Finished Mean Reversion and linked it to main, began Momentum
+2/27/2016 4      Finsished momentum, debugged live MeanReversion mode, commented code, wrote report
+
+Total Time Spent on Project: 42.25 hours

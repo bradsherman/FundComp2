@@ -1,0 +1,16 @@
+
+Brad Sherman Time Log
+
+Date      Hours  Description
+
+Spread    17.5   Group Time (documented in depth in groupMeetings.txt)
+4/21/2016 2      Researched stock trading algorithms and general stock information
+4/25/2016 2      Worked on allowing AlgorithmTester.cpp to be able to read in a start and end date with error checking
+4/26/2016 3      Worked on writing various functions to allow the algorithm tester to work, like checking dates 
+4/26/2016 4      Worked on writing a method to get data for a certain range of time for a ticker, and also wrote a program to test all of the functions in AlgorithmTester base class
+4/26/2016 2      Worked on debugging MeanReversion.cpp so it would compile, and then added various methods to make the program easier to use
+4/27/2016 3      Made a few different constructors for the different uses of the classes, and started main.cpp
+4/27/2016 4      Worked on debugging MeanReversion.cpp, continued main.cpp, wrote unit test program for mean reversion and algorithmtester
+4/27/2016 4      Worked on testing the live test programs and improving them
+
+
