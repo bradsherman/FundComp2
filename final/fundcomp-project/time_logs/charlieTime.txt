@@ -1,0 +1,8 @@
+Date     Time     What I did    
+4/25/2016 2 Worked on getting all of the variables and initial class setups, specifically on MeanReversion class  
+4/25/2016 2 Worked on getting all of the historical stock data into a c++ map
+4/26/2016 9 Made major steps in debugging program, some mean reversion, some Powerpoint stuff, and the algorithm tester class
+4/27/2016 10 Did a lot more stuff including debugging, developing run live with mean reversion, commenting, etc.
+Spread    17.5 Group time (mostly meetings, documents, and planning)
+
+Total: 40.5
